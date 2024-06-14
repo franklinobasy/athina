@@ -5,7 +5,8 @@ Task: Create a RAG-powered chatbot that can answer questions based on a PDF docu
 The repository contains the source code for the RAG app.
 
 To start the application:
-1.Install requirements
+
+1. Install requirements
 
 ```bash
 python -m pip install -r requirements.txt
