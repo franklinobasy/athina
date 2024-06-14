@@ -37,7 +37,7 @@ knowledge_base = KnowledgeBase(df)
 
 2. Agent description. The agent description is basically the prompt that informs the agent on how to generate the questions.
 
-The goal is to make the questions diverse, that is, the questions generated should encompass several topics that relates to the pdf. To achieve this, I manually extracted different topics from the pdf:
+The goal is to make the questions diverse, that is, the questions generated should encompass several topics that covered, treated or mentioned in the pdf. To achieve this, I manually extracted different topics from the pdf:
 
 ```python
 topics = [
