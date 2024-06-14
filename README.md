@@ -108,10 +108,10 @@ Evaluation Report:
 1. GENERATOR
 Score: 84.0% The Generator is the LLM inside the RAG to generate the answers.
 
-2.RETRIEVER
+2. RETRIEVER
 Score: 70.0% The Retriever fetches relevant documents from the knowledge base according to a user query.
 
-3.REWRITER
+3. REWRITER
 Score:60.0% The Rewriter modifies the user query to match a predefined format or to include the context from the chat history.
 
 4. ROUTING
@@ -121,4 +121,4 @@ Score: 100.0% The Router filters the query of the user based on his intentions (
 Score: 61.54% The knowledge base is the set of documents given to the RAG to generate the answers. Its scores is computed differently from the other components: it is the difference between the maximum and minimum correctness score across all the topics of the knowledge base.
 
 
-Overall Correctness Score: 73%
+### Overall Correctness Score: 73%
