@@ -4,3 +4,10 @@ langchainhub
 langchain-openai
 langchain-chroma
 unstructured[pdf]
+python-dotenv
+chromadb
+giskard
+pandas
+langchain_google_vertexai
+ragas
+streamlit
