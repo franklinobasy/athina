@@ -67,9 +67,9 @@ testset = generate_testset(
 
 ### Why I feel this is a comprehensive dataset.
 
-After critically going through the generated dataset, I am confident that it is comprehensive because of the fact that each question addresses different possible topics or sections in the pdfs. 
+After critically going through the generated dataset, I am confident that it is comprehensive because of the fact that each question addresses different possible topics or sections in the provided pdf. 
 
-As I mentioned earlier, I extracted different sections/topic to inform the giskard agent properly.
+As I mentioned earlier, I extracted different sections/topics from the provided to inform the giskard agent properly.
 
 Here's my jupyter [`notebook`](notebooks/test_rag.ipynb)
  
